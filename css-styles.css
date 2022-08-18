@@ -5,29 +5,28 @@ body{
 }
 .outer-box{
     background-color:hsl(0, 0%, 100%);
-    width:19%;
-    height:50%;
+    width:19rem;    
     margin:auto;
-    margin-top: 200px;
+    margin-top: 12.5rem;
     border-radius: 5%;
     min-height: 100px;
     overflow: hidden;
 
 }
 .qr-code{
-    width:90%;
-    height:60%;
+    width:17rem;
+    height:17rem;
     border-radius: 5%;
-    margin:15px
+    margin:0.9375rem;
     
 }
 p{
-    font-size: 15px;
+    font-size: 0.9375rem;
 }
 .big-text{
     font-weight: 700;
     color: hsl(218, 44%, 22%);
-    width: 80%;
+    width: 15rem;
     font-size: larger;
     margin: auto;
 }    
@@ -35,8 +34,8 @@ p{
     font-weight: 400;
     color: hsl(220, 15%, 55%);
     font-size: smaller;
-    width: 79%;
+    width: 15rem;
     margin: auto;
-    padding:20px;
-    margin-bottom: 20px;
+    padding:1.25rem;
+    margin-bottom: 1.25rem;
 }
